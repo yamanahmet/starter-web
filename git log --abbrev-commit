@@ -1,0 +1,98 @@
+[33mcommit 653c97b78c5d2ecde43ce026291e074e263fdb02[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:48:41 2022 +0300
+
+    deleting level1 and all children
+
+[33mcommit c5d0978ad4dc113d293c186f55fe61bbb9684e0b[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:46:55 2022 +0300
+
+    Deleted hipster.txt file
+
+[33mcommit e72972b9228730c653ba45dc69f143376d289e79[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:42:57 2022 +0300
+
+    Deleting new file
+
+[33mcommit 4595b2a173252aff9dc650bd6fd589c979fd7c86[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:35:52 2022 +0300
+
+    Renaming level 1 file
+
+[33mcommit 9b8c8739e0cd960b2cd1d2b21343107a49282df0[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:32:25 2022 +0300
+
+    Moving level 2 file back to level 2 directory
+
+[33mcommit a1f41d061c978ca3570b34be03daee6e32daf713[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:30:39 2022 +0300
+
+    Moving file from level 2 to level 3
+
+[33mcommit 0c838768f69fea2ab7e3e47055cc342441ab34bc[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:24:10 2022 +0300
+
+    renaming level3 file
+
+[33mcommit 97014a7f99e0f7bea6a9f40a457fe783341887d1[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 14:42:29 2022 +0300
+
+    Adding several files recursively
+
+[33mcommit 1118f78a4ce308eb7b093a98812ede859f77fc7a[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 12:54:33 2022 +0300
+
+    More ipsum for hipsters
+
+[33mcommit 1fa2f868831796e767f0a966dafad36e088af493[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 12:51:37 2022 +0300
+
+    Adding new file
+
+[33mcommit 255a8114aee33c605a6a6630411012ec5f807bef[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 12:43:18 2022 +0300
+
+    Adding more ipsum text
+
+[33mcommit 9be128eec775bf3e4d50f3077bb0f4c4fda87cd8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 12:17:33 2022 +0300
+
+    My first commit!
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages

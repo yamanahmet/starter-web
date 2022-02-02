@@ -1,0 +1,23 @@
+[33mcommit 653c97b78c5d2ecde43ce026291e074e263fdb02[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:48:41 2022 +0300
+
+    deleting level1 and all children
+
+[33mcommit 9b8c8739e0cd960b2cd1d2b21343107a49282df0[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:32:25 2022 +0300
+
+    Moving level 2 file back to level 2 directory
+
+[33mcommit a1f41d061c978ca3570b34be03daee6e32daf713[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 15:30:39 2022 +0300
+
+    Moving file from level 2 to level 3
+
+[33mcommit 97014a7f99e0f7bea6a9f40a457fe783341887d1[m
+Author: yamanahmet <ymna32@gmail.com>
+Date:   Wed Feb 2 14:42:29 2022 +0300
+
+    Adding several files recursively
