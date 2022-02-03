@@ -6,7 +6,7 @@
 -->
 
 <head>
-	<title>Lots of Trouble, in a little repo</title>
+	<title>Updating Title for Stash Example</title>
 =======
 	These changes are from the feature
 	branch bigtrouble
@@ -37,7 +37,7 @@
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Jason Taylor 2014</p>
+		<p>&copy; 2014 Git.Training, All rights reserved.</p>
 	</footer>
 </body>
 </html>
