@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2022. Git. Training
-	Adding changes before rebasing conflicts
+<<<<<<< HEAD
+	Some silly changes from master branch
 -->
 
 <head>
-	<title>A Very Respectfull Website</title>
+	<title>Silly Changes on Master</title>
+=======
+	These changes are from the feature
+	branch bigtrouble
+-->
+
+<head>
+	<title>Lots of Trouble</title>
+>>>>>>> c8e4607 (fb adding some trouble to simple.html)
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,14 +26,18 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- Junk Filler Content -->
 		<p>
-			I'm not sure what will go here, but I'm sure
-			it will be nice.
+<<<<<<< HEAD
+			Just stuff for now,
+			Not sure if we should replace this or not
+=======
+			Just nothin' but troule.
+>>>>>>> c8e4607 (fb adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Ahmet YAMAN 2022</p>
+		<p>&copy; Jason Taylor 2014</p>
 	</footer>
 </body>
 </html>
